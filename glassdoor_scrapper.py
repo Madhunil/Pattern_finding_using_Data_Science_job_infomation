@@ -2,7 +2,7 @@
 """
 Created on Tue Oct 13 00:52:49 2020
 
-@author: madpa
+@author: Madhunil Pachghare
 """
 
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
