@@ -1,0 +1,2 @@
+# Pattern_finding_using_Data_Science_job_infomation
+Repository for Data Science Salary Prediction Project
